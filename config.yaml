@@ -1,0 +1,32 @@
+baseURL: https://hoefler.io/
+languageCode: en-us
+title: Patrick Hoefler
+theme: PaperMod
+
+publishDir: docs
+disableKinds:
+  - page
+  - section
+  - taxonomy
+  - term
+
+params:
+  disableThemeToggle: true
+  hideFooter: true
+  label:
+    text: " "
+
+  profileMode:
+    enabled: true
+    title: Patrick Hoefler
+    subtitle: computers and cloud and stuff
+    imageUrl: profile.jpeg
+    imageTitle: Portrait picture of a white man with dark blond hair
+
+  socialIcons:
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/PatrickHoefler
+    - name: GitHub
+      url: https://github.com/PatrickHoefler
+    - name: Email
+      url: mailto:patrick.hoefler@gmail.com
