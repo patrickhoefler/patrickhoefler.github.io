@@ -4,7 +4,8 @@
     <title>Patrick Hoefler</title>
     <link>https://hoefler.io/</link>
     <description>Recent content on Patrick Hoefler</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://hoefler.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.137.1</generator>
+    <language>en-us</language>
+    <atom:link href="https://hoefler.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
