@@ -19,7 +19,7 @@ params:
   profileMode:
     enabled: true
     title: Patrick Hoefler
-    subtitle: computers and clouds and stuff
+    subtitle: computers and clouds and stuffs
     imageUrl: profile.jpeg
     imageTitle: Portrait picture of a white man with dark blond hair
 
